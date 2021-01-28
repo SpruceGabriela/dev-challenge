@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://i.ibb.co/jDcsH3c/1.gif" alt="Logo" width="800">
 
-  <h3 align="center">Página de Porfólio by <a href="https://www.linkedin.com/in/gabrielapinheiro129/">Gabriela Pinheiro</a></h3>
+  <h3 align="center">Delightful Animations by <a href="https://www.linkedin.com/in/gabrielapinheiro129/">Gabriela Pinheiro</a></h3>
  <br />
   <p align="center">
     Página para mostrar seu talento à comunidade!
@@ -32,7 +32,7 @@
 <a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
 
 # Desafio
-Seu desafio é criar uma página que servirá de portfólio para apresentar seu trabalho à comunidade. O modelo final está disponível em <a href="https://portfolio-dev-challenge.netlify.app/">Portfólio Dev Challenge</a>.
+Seu desafio é criar uma página que servirá de portfólio para apresentar seu trabalho à comunidade. O modelo final está disponível em <a href="https://portfolio-dev-challenge.netlify.app/">Delightful Animations - Dev Challenge</a>.
 
 ## Requisitos:
 - Sua página deverá apresentar as animações propostas no projeto original<br>
@@ -62,7 +62,7 @@ Roxo claro do gradient: #893168<br>
 Cor do texto: rgb(109, 109, 109)
 
 ## Modelo:
-O modelo final está disponível em <a href="https://portfolio-dev-challenge.netlify.app/">Portfólio Dev Challenge</a>
+O modelo final está disponível em <a href="https://portfolio-dev-challenge.netlify.app/">Delightful Animations - Dev Challenge</a>
 
 ## Imagens
 As imagens utilizadas estão disponíveis na pasta raiz
